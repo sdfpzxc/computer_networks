@@ -1,17 +1,17 @@
-Ученик: Геращенко Ксения
-Группа: РПО2.9/3
+### Ученик: Геращенко Ксения
+### Группа: РПО2.9/3
 
 # Задание 
 Построить все схемы в циско из презентации
 
 **Схема 1**
 
-![cisco 4 lesson 9 1](4lesson9_1.png)
+![cisco 4 lesson 9 1](screens/4lesson9_1.png)
 
 **Схема 2**
 
-![cisco 4 lesson 9 2](4lesson9_2.png)
+![cisco 4 lesson 9 2](screens/4lesson9_2.png)
 
 **Схема 3**
 
-![cisco 4 lesson 9 3](4lesson9_3.png)
+![cisco 4 lesson 9 3](screens/4lesson9_3.png)
