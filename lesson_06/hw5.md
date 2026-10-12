@@ -4,10 +4,10 @@
 # Тема: Адресация
 
 ## Скриншот 1
-![скрин 1](8pc2switch1hub.png)
+![скрин 1](screens/8pc2switch1hub.png)
 
 ## Скриншот 2
-![скрин 2](ping_console.png)
+![скрин 2](screens/ping_console.png)
   
 ## Скриншот 3
-![скрин 3](simulation8pc.png)
+![скрин 3](screens/simulation8pc.png)
