@@ -32,21 +32,21 @@
 | Урок | Тема | Ссылка |
 | :--- | :--- | :--- |
 | **Урок 02** | Модели OSI и TCP/IP: уровни, протоколы и инкапсуляция | [lesson_02](https://github.com/sdfpzxc/computer_networks/tree/lesson_02/my%20homeworks/lesson_02) |
-| **Урок 03** | Коммутация Ethernet | [lesson_03](../../tree/lesson_03) |
-| **Урок 04** | IPv4 и адресация. IPv4-адрес: сеть, узел, маска и специальные диапазоны | [lesson_04](../../tree/lesson_04) |
-| **Урок 05** | Расчет подсетей и планирование адресного пространства | [lesson_05](../../tree/lesson_05) |
-| **Урок 06** | Cisco. Практика по подсетям: VLSM и проверка конфигурации | [lesson_06](../../tree/lesson_06) |
-| **Урок 07** | Маршрутизация: таблица маршрутов, gateway и выбор пути | [lesson_07](../../tree/lesson_07) |
-| **Урок 08** | DHCP: автоматическая выдача адресов и управление пулом | [lesson_08](../../tree/lesson_08) |
-| **Урок 09** | NAT и PAT: выход частной сети во внешнюю | [lesson_09](../../tree/lesson_09) |
-| **Урок 10** | DNS: иерархия имен, зоны и процесс разрешения | [lesson_10](../../tree/lesson_10) |
-| **Урок 11** | DNS: иерархия имен, зоны и процесс разрешения (продолжение) | [lesson_11](../../tree/lesson_11) |
-| **Урок 12** | DNS-записи и диагностика ошибок имен | [lesson_12](../../tree/lesson_12) |
-| **Урок 13** | TCP и UDP: надежность, порядок и цена соединения | [lesson_13](../../tree/lesson_13) |
-| **Урок 14** | Порты, сетевые сокеты и состояние соединений | [lesson_14](../../tree/lesson_14) |
-| **Урок 15** | HTTP: запрос, ответ, методы и маршруты | [lesson_15](../../tree/lesson_15) |
-| **Урок 16** | Урок. Порты, сетевые сокеты и состояние соединений | [lesson_16](../../tree/lesson_16) |
-| **Урок 17** | HTTP: запрос, ответ, методы и маршруты | [lesson_17](../../tree/lesson_17) |
-| **Практика** | Практические задания с уроков | [practice](../../tree/practice) |
-| **Тесты** | Тестовые задания | [tests](../../tree/tests) |
-| **Теория** | Теоретические материалы | [theory](../../tree/theory) |
+| **Урок 03** | Коммутация Ethernet | [lesson_03](https://github.com/sdfpzxc/computer_networks/tree/lesson_03/my%20homeworks/lesson_03) |
+| **Урок 04** | IPv4 и адресация. IPv4-адрес: сеть, узел, маска и специальные диапазоны | [lesson_04](https://github.com/sdfpzxc/computer_networks/tree/lesson_04/my%20homeworks/lesson_04) |
+| **Урок 05** | Расчет подсетей и планирование адресного пространства | [lesson_05](https://github.com/sdfpzxc/computer_networks/tree/lesson_05/my%20homeworks/lesson_05) |
+| **Урок 06** | Cisco. Практика по подсетям: VLSM и проверка конфигурации | [lesson_06](https://github.com/sdfpzxc/computer_networks/tree/lesson_06/my%20homeworks/lesson_06) |
+| **Урок 07** | Маршрутизация: таблица маршрутов, gateway и выбор пути | [lesson_07](https://github.com/sdfpzxc/computer_networks/tree/lesson_07/my%20homeworks/lesson_07) |
+| **Урок 08** | DHCP: автоматическая выдача адресов и управление пулом | [lesson_08](https://github.com/sdfpzxc/computer_networks/tree/lesson_08/my%20homeworks/lesson_08) |
+| **Урок 09** | NAT и PAT: выход частной сети во внешнюю | [lesson_09](https://github.com/sdfpzxc/computer_networks/tree/lesson_09/my%20homeworks/lesson_09) |
+| **Урок 10** | DNS: иерархия имен, зоны и процесс разрешения | [lesson_10](https://github.com/sdfpzxc/computer_networks/tree/lesson_10/my%20homeworks/lesson_10) |
+| **Урок 11** | DNS: иерархия имен, зоны и процесс разрешения (продолжение) | [lesson_11](https://github.com/sdfpzxc/computer_networks/tree/lesson_11/my%20homeworks/lesson_11) |
+| **Урок 12** | DNS-записи и диагностика ошибок имен | [lesson_12](https://github.com/sdfpzxc/computer_networks/tree/lesson_12/my%20homeworks/lesson_12) |
+| **Урок 13** | TCP и UDP: надежность, порядок и цена соединения | [lesson_13](https://github.com/sdfpzxc/computer_networks/tree/lesson_13/my%20homeworks/lesson_13) |
+| **Урок 14** | Порты, сетевые сокеты и состояние соединений | [lesson_14](https://github.com/sdfpzxc/computer_networks/tree/lesson_14/my%20homeworks/lesson_14) |
+| **Урок 15** | HTTP: запрос, ответ, методы и маршруты | [lesson_15](https://github.com/sdfpzxc/computer_networks/tree/lesson_15/my%20homeworks/lesson_15) |
+| **Урок 16** | Урок. Порты, сетевые сокеты и состояние соединений | [lesson_16](https://github.com/sdfpzxc/computer_networks/tree/lesson_16/my%20homeworks/lesson_16) |
+| **Урок 17** | HTTP: запрос, ответ, методы и маршруты | [lesson_17](https://github.com/sdfpzxc/computer_networks/tree/lesson_17/my%20homeworks/lesson_17) |
+| **Практика** | Практические задания с уроков | [practice](https://github.com/sdfpzxc/computer_networks/tree/practice/practice%20from%20the%20lesson) |
+| **Тесты** | Тестовые задания | [tests](https://github.com/sdfpzxc/computer_networks/tree/tests/tests) |
+| **Теория** | Теоретические материалы | [theory](https://github.com/sdfpzxc/computer_networks/tree/theory/theory%20from%20lessons) |
