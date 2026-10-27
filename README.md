@@ -48,5 +48,5 @@
 | **Урок 16** | Урок. Порты, сетевые сокеты и состояние соединений | [lesson_16](https://github.com/sdfpzxc/computer_networks/tree/lesson_16/my%20homeworks/lesson_16) |
 | **Урок 17** | HTTP: запрос, ответ, методы и маршруты | [lesson_17](https://github.com/sdfpzxc/computer_networks/tree/lesson_17/my%20homeworks/lesson_17) |
 | **Практика** | Практические задания с уроков | [practice](https://github.com/sdfpzxc/computer_networks/tree/practice/practice%20from%20the%20lesson) |
-| **Тесты** | Тестовые задания | [tests](https://github.com/sdfpzxc/computer_networks/tree/tests/tests) |
+| **Экзамен и тесты** | Экзамен и тестовые задания | [tests](https://github.com/sdfpzxc/computer_networks/tree/tests/tests) |
 | **Теория** | Теоретические материалы | [theory](https://github.com/sdfpzxc/computer_networks/tree/theory/theory%20from%20lessons) |
